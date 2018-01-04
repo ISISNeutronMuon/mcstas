@@ -5,10 +5,8 @@ Back in April 2017 we held an ISIS Mcstas workshop which was very successful wit
 Workshop attendees
 ![Workshop attendees]({{ "17EC1823_McStas%20workshop.jpg" | absolute_url }})
 
-
-<img src="https://github.com/ISISNeutronMuon/mcstas/blob/master/17EC1828_McStas%20workshop.jpg" width="100%"  align="right" >
 Everybody working hard
-<br><br>
+![Everybody working hard]({{ "17EC1828_McStas%20workshop.jpg" | absolute_url }})
 
-<img src="https://github.com/ISISNeutronMuon/mcstas/blob/master/17EC1830_McStas%20workshop.jpg" width="100%"  align="right" >
 Peter has seen the light
+![Peter has seen the light]({{ 17EC1830_McStas%20workshop.jpg" width="100%" | absolute_url }})
