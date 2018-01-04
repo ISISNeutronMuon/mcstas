@@ -9,4 +9,4 @@ Everybody working hard
 ![Everybody working hard]({{ "17EC1828_McStas%20workshop.jpg" | absolute_url }})
 
 Peter has seen the light
-![Peter has seen the light]({{ 17EC1830_McStas%20workshop.jpg" width="100%" | absolute_url }})
+![Peter has seen the light]({{ "17EC1830_McStas%20workshop.jpg" width="100%" | absolute_url }})
