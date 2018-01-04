@@ -2,9 +2,9 @@ Back in April 2017 we held an ISIS Mcstas workshop which was very successful wit
 
 ***
 
-<img src="https://github.com/ISISNeutronMuon/mcstas/blob/master/17EC1823_McStas%20workshop.jpg" width="100%"  align="center" >
 Workshop attendees
-<br><br>
+![Workshop attendees]({{ "https://github.com/ISISNeutronMuon/mcstas/blob/master/17EC1823_McStas%20workshop.jpg" | absolute_url }})
+
 
 <img src="https://github.com/ISISNeutronMuon/mcstas/blob/master/17EC1828_McStas%20workshop.jpg" width="100%"  align="right" >
 Everybody working hard
