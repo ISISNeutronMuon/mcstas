@@ -3,10 +3,10 @@ Back in April 2017 we held an ISIS Mcstas workshop which was very successful wit
 ***
 
 Workshop attendees
-![Workshop attendees]({{ "17EC1823_McStas%20workshop.jpg" | absolute_url }})
+![Workshop attendees]({{ "images/17EC1823_McStas%20workshop.jpg" | absolute_url }})
 
 Everybody working hard
-![Everybody working hard]({{ "17EC1828_McStas%20workshop.jpg" | absolute_url }})
+![Everybody working hard]({{ "images/17EC1828_McStas%20workshop.jpg" | absolute_url }})
 
 Peter has seen the light
-![Peter has seen the light]({{ "17EC1830_McStas%20workshop.jpg" width="100%" | absolute_url }})
+![Peter has seen the light]({{ "images/17EC1830_McStas%20workshop.jpg" width="100%" | absolute_url }})
