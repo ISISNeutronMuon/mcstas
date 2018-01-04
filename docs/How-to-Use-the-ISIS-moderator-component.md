@@ -1,3 +1,6 @@
+How to use the ISIS moderator component
+=======================================
+
 There have been many versions of the ISIS moderator component over the years and some of the 'early virtual moderator' components had various problems such as time offsets and difficulties dealing with super mirror guides. This page is not going to dwell on previous versions but just show the latest version which we believe to be correct. Importantly it will show you how to use this component correctly. 
 
 If you don't have the latest version please download [ViewModISISver1.comp](https://www.dropbox.com/s/olhzq8kn5jopuui/ViewModISISver1.comp?dl=0)
