@@ -1,3 +1,6 @@
+[Mcstas mainpage](index)
+
+
 How to use the ISIS moderator component
 =======================================
 
