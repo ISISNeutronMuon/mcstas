@@ -1,3 +1,5 @@
+[Mcstas mainpage](/mcstas/)
+
 ISIS instrument files
 =====================
 
