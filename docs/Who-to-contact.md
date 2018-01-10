@@ -1,3 +1,5 @@
+[Mcstas mainpage](/mcstas/)
+
 Who to contact
 ==============
 
