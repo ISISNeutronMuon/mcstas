@@ -3,7 +3,7 @@
 The ISIS Mcstas workshop
 ========================
 
-Back in April 2017 we held an ISIS Mcstas workshop which was very successful with over 30 ISIS attendees. The workshop was very hands on with much of the time dedicated to building instruments and running simulations. The workshop covered the basics of Mcstas as well as covering some more advanced Mcstas material such as how to build your own components. The workshop was kindly given by the Mcstas team (Peter Kjær Willendrup, Erik Knudsen and Torben Nielsen) and also ISIS staff gave some presentations (Rob Bewley, Ron Smith and Rob Dalgliesh). Please follow the [ISIS workshop ](http://april2017.mcstas.org/) link for all the talks.
+Back in April 2017 we held an ISIS Mcstas workshop which was very successful with over 30 ISIS attendees. The workshop was very hands on with much of the time dedicated to building instruments and running simulations. The workshop covered the basics of Mcstas as well as covering some more advanced Mcstas material such as how to build your own components. The workshop was kindly given by the Mcstas team (Peter Kjær Willendrup, Erik Knudsen and Torben Nielsen) and also ISIS staff gave some presentations (Rob Bewley, Ron Smith, Silvia Imberti and Rob Dalgliesh). Please follow the [ISIS workshop ](http://april2017.mcstas.org/) link for all the talks.
 
 ***
 
