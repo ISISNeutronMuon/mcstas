@@ -1,4 +1,4 @@
-[Mcstas mainpage](index)
+[Mcstas mainpage](docs/index.md)
 
 
 How to use the ISIS moderator component
