@@ -1,3 +1,5 @@
+[Mcstas mainpage](/mcstas/)
+
 The ISIS Mcstas workshop
 ========================
 
