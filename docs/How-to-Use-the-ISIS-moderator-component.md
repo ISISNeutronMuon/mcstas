@@ -12,7 +12,14 @@ Correct example of its use;
 
 COMPONENT Source =   Commodus_I(Face="msMerlin_160.mcstas", E0 = E_min, E1 = E_max, modXsize=0.12, modZsize = 0.12,  xw = 0.094, yh = 0.094, dist = 1.6)
 
-Please note its a capital 'I' (eye) after Commodus and not a 1 or a small L. This produces a neutron distribution at the ISIS TS1 or TS2 moderator face. The Face argument determines which TS1 or TS2 beamline is to be sampled by using corresponding Etable file. Neutrons are created having a range of energies determined by the E0 and E1 arguments. Trajectories are produced such that they pass through the moderator face (defined by modXsize and modZsize) and a focusing rectangle (defined by xw, yh and dist).
+Please note its a capital 'I' (eye) after Commodus and not a 1 or a small L. This produces a neutron distribution at the ISIS TS1 or TS2 moderator face. The Face argument determines which TS1 or TS2 beamline is to be sampled by using corresponding Etable file. Neutrons are created having a range of energies determined by the E0 and E1 arguments. Trajectories are produced such that they pass through the moderator face (defined by modXsize and modZsize) and a focusing rectangle (defined by xw, yh and dist). The moderator sizes are as follows (width x height in cm);
+
+* TS1 Methane: 12 x 11.5
+* TS1 Hydrogen: 11 x 12
+* TS1 Water mods: 12 x 11.4
+
+IMPORTANT NOTE: If you are trying to simulate absolute fluxes on detectors/monitors then it is important to realise that the moderator gives a neutronic output for a 1 uamp beam current on target. So to get proper flux figures you need to multiply any intensity you get by 160 on TS1 and 40 for TS2.
+
 
 INPUT PARAMETERS:
  
