@@ -6,7 +6,7 @@ How to use the ISIS moderator component
 
 There have been many versions of the ISIS moderator component over the years and some of the 'early virtual moderator' components had various problems such as time offsets and difficulties dealing with super mirror guides. This page is not going to dwell on previous versions but just show the latest version which we believe to be correct. Importantly it will show you how to use this component correctly. 
 
-If you don't have the latest version please download [commodus_I.comp](https://www.dropbox.com/s/7eucgnpbn8yf9o6/Commodus_I.comp?dl=0) and put it in the contributed folder, usually C:\mcstas-2.4\lib\contrib
+If you don't have the latest version please download [Commodus_I.comp](https://www.dropbox.com/s/7eucgnpbn8yf9o6/Commodus_I.comp?dl=0) and put it in the contributed folder, usually C:\mcstas-2.4\lib\contrib
 
 Correct example of its use;
 
